@@ -1,0 +1,267 @@
+object Form8: TForm8
+  Left = 1022
+  Height = 240
+  Top = 375
+  Width = 320
+  Caption = 'Form8'
+  ClientHeight = 240
+  ClientWidth = 320
+  Color = clBackground
+  LCLVersion = '1.8.4.0'
+  object Shape1: TShape
+    Left = 344
+    Height = 633
+    Top = 120
+    Width = 961
+    Brush.Color = clGreen
+    Shape = stCircle
+  end
+  object Shape14: TShape
+    Left = 48
+    Height = 22
+    Top = 48
+    Width = 29
+    Shape = stStar
+  end
+  object Shape48: TShape
+    Left = 800
+    Height = 25
+    Top = 264
+    Width = 26
+    Shape = stTriangleDown
+  end
+  object Shape47: TShape
+    Left = 904
+    Height = 25
+    Top = 232
+    Width = 26
+    Shape = stTriangleLeft
+  end
+  object Shape41: TShape
+    Left = 993
+    Height = 25
+    Top = 592
+    Width = 26
+    Shape = stTriangle
+  end
+  object Shape61: TShape
+    Left = 640
+    Height = 25
+    Top = 480
+    Width = 26
+    Shape = stTriangleRight
+  end
+  object Button1: TButton
+    Left = 944
+    Height = 25
+    Top = 232
+    Width = 75
+    Caption = 'Button1'
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 776
+    Height = 25
+    Top = 232
+    Width = 75
+    Caption = 'Button2'
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 776
+    Height = 25
+    Top = 352
+    Width = 75
+    Caption = 'Button3'
+    TabOrder = 2
+  end
+  object Button4: TButton
+    Left = 552
+    Height = 25
+    Top = 352
+    Width = 75
+    Caption = 'Button4'
+    TabOrder = 3
+  end
+  object Button5: TButton
+    Left = 552
+    Height = 25
+    Top = 480
+    Width = 75
+    Caption = 'Button5'
+    TabOrder = 4
+  end
+  object Button6: TButton
+    Left = 744
+    Height = 25
+    Top = 480
+    Width = 75
+    Caption = 'Button6'
+    TabOrder = 5
+  end
+  object Button7: TButton
+    Left = 744
+    Height = 25
+    Top = 624
+    Width = 75
+    Caption = 'Button7'
+    TabOrder = 6
+  end
+  object Button8: TButton
+    Left = 968
+    Height = 25
+    Top = 624
+    Width = 75
+    Caption = 'Button8'
+    TabOrder = 7
+  end
+  object Button9: TButton
+    Left = 968
+    Height = 25
+    Top = 432
+    Width = 75
+    Caption = 'Button9'
+    TabOrder = 8
+  end
+  object Button10: TButton
+    Left = 968
+    Height = 25
+    Top = 328
+    Width = 75
+    Caption = 'Button10'
+    TabOrder = 9
+  end
+  object Shape49: TShape
+    Left = 864
+    Height = 25
+    Top = 232
+    Width = 26
+    Shape = stTriangleLeft
+  end
+  object Shape50: TShape
+    Left = 800
+    Height = 25
+    Top = 312
+    Width = 26
+    Shape = stTriangleDown
+  end
+  object Shape51: TShape
+    Left = 728
+    Height = 25
+    Top = 352
+    Width = 26
+    Shape = stTriangleLeft
+  end
+  object Shape52: TShape
+    Left = 680
+    Height = 25
+    Top = 352
+    Width = 26
+    Shape = stTriangleLeft
+  end
+  object Shape53: TShape
+    Left = 640
+    Height = 25
+    Top = 352
+    Width = 26
+    Shape = stTriangleLeft
+  end
+  object Shape54: TShape
+    Left = 576
+    Height = 25
+    Top = 384
+    Width = 26
+    Shape = stTriangleDown
+  end
+  object Shape55: TShape
+    Left = 576
+    Height = 25
+    Top = 432
+    Width = 26
+    Shape = stTriangleDown
+  end
+  object Shape62: TShape
+    Left = 688
+    Height = 25
+    Top = 480
+    Width = 26
+    Shape = stTriangleRight
+  end
+  object Shape63: TShape
+    Left = 832
+    Height = 25
+    Top = 624
+    Width = 26
+    Shape = stTriangleRight
+  end
+  object Shape56: TShape
+    Left = 768
+    Height = 25
+    Top = 512
+    Width = 26
+    Shape = stTriangleDown
+  end
+  object Shape57: TShape
+    Left = 768
+    Height = 25
+    Top = 552
+    Width = 26
+    Shape = stTriangleDown
+  end
+  object Shape58: TShape
+    Left = 768
+    Height = 25
+    Top = 592
+    Width = 26
+    Shape = stTriangleDown
+  end
+  object Shape64: TShape
+    Left = 880
+    Height = 25
+    Top = 624
+    Width = 26
+    Shape = stTriangleRight
+  end
+  object Shape65: TShape
+    Left = 928
+    Height = 25
+    Top = 624
+    Width = 26
+    Shape = stTriangleRight
+  end
+  object Shape42: TShape
+    Left = 993
+    Height = 25
+    Top = 552
+    Width = 26
+    Shape = stTriangle
+  end
+  object Shape43: TShape
+    Left = 993
+    Height = 25
+    Top = 512
+    Width = 26
+    Shape = stTriangle
+  end
+  object Shape44: TShape
+    Left = 993
+    Height = 25
+    Top = 464
+    Width = 26
+    Shape = stTriangle
+  end
+  object Shape45: TShape
+    Left = 992
+    Height = 25
+    Top = 400
+    Width = 26
+    Shape = stTriangle
+  end
+  object Shape46: TShape
+    Left = 992
+    Height = 25
+    Top = 360
+    Width = 26
+    Shape = stTriangle
+  end
+end

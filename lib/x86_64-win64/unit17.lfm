@@ -1,0 +1,18 @@
+object Form17: TForm17
+  Left = 428
+  Height = 240
+  Top = 147
+  Width = 320
+  Caption = 'Form17'
+  ClientHeight = 240
+  ClientWidth = 320
+  LCLVersion = '1.8.4.0'
+  object Shape1: TShape
+    Left = 174
+    Height = 152
+    Top = 88
+    Width = 146
+    Brush.Color = clYellow
+    Shape = stCircle
+  end
+end

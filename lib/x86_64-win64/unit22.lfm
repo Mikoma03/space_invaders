@@ -1,0 +1,8 @@
+object Form22: TForm22
+  Left = 375
+  Height = 749
+  Top = 42
+  Width = 1044
+  Caption = 'Form22'
+  LCLVersion = '1.8.4.0'
+end

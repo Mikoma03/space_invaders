@@ -1,0 +1,620 @@
+object Form14: TForm14
+  Left = 404
+  Height = 832
+  Top = 100
+  Width = 1118
+  Caption = 'Form14'
+  ClientHeight = 832
+  ClientWidth = 1118
+  LCLVersion = '1.8.4.0'
+  object Shape1: TShape
+    Left = 216
+    Height = 833
+    Top = 72
+    Width = 1241
+    Brush.Color = clSkyBlue
+    Shape = stCircle
+  end
+  object Button1: TButton
+    Left = 624
+    Height = 25
+    Top = 168
+    Width = 75
+    Caption = 'Location 1'
+    TabOrder = 0
+  end
+  object Shape18: TShape
+    Left = 96
+    Height = 22
+    Top = 40
+    Width = 29
+    Brush.Color = clActiveCaption
+    Shape = stStar
+  end
+  object Shape41: TShape
+    Left = 760
+    Height = 25
+    Top = 648
+    Width = 26
+    Shape = stTriangle
+    Visible = False
+  end
+  object Shape45: TShape
+    Left = 936
+    Height = 25
+    Top = 288
+    Width = 26
+    Shape = stTriangleLeft
+    Visible = False
+  end
+  object Shape48: TShape
+    Left = 1008
+    Height = 25
+    Top = 200
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Label1: TLabel
+    Left = 828
+    Height = 37
+    Top = 0
+    Width = 94
+    Caption = 'Merkur'
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clWhite
+    Font.Height = -27
+    Font.Name = '@Malgun Gothic'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Panel1: TPanel
+    Left = 976
+    Height = 50
+    Top = 16
+    Width = 696
+    ClientHeight = 50
+    ClientWidth = 696
+    Color = clCream
+    ParentColor = False
+    TabOrder = 1
+    object Shape67: TShape
+      Left = -8
+      Height = 49
+      Top = 0
+      Width = 65
+      Brush.Color = clYellow
+      Shape = stStar
+    end
+    object Shape68: TShape
+      Left = 64
+      Height = 49
+      Top = 0
+      Width = 65
+      Shape = stStar
+    end
+    object Shape69: TShape
+      Left = 136
+      Height = 49
+      Top = 0
+      Width = 65
+      Shape = stStar
+    end
+    object Shape70: TShape
+      Left = 208
+      Height = 49
+      Top = 0
+      Width = 65
+      Shape = stStar
+    end
+    object Shape71: TShape
+      Left = 280
+      Height = 49
+      Top = 0
+      Width = 65
+      Shape = stStar
+    end
+    object Shape72: TShape
+      Left = 352
+      Height = 49
+      Top = 0
+      Width = 65
+      Shape = stStar
+    end
+    object Shape73: TShape
+      Left = 424
+      Height = 49
+      Top = 0
+      Width = 65
+      Shape = stStar
+    end
+    object Shape74: TShape
+      Left = 496
+      Height = 49
+      Top = 0
+      Width = 65
+      Shape = stStar
+    end
+    object Shape75: TShape
+      Left = 568
+      Height = 49
+      Top = 0
+      Width = 65
+      Shape = stStar
+    end
+    object Shape76: TShape
+      Left = 640
+      Height = 49
+      Top = 0
+      Width = 65
+      Shape = stStar
+    end
+  end
+  object Button2: TButton
+    Left = 984
+    Height = 25
+    Top = 168
+    Width = 75
+    Caption = 'Location 2'
+    TabOrder = 2
+  end
+  object Button3: TButton
+    Left = 984
+    Height = 25
+    Top = 288
+    Width = 75
+    Caption = 'Location 3'
+    TabOrder = 3
+  end
+  object Button4: TButton
+    Left = 520
+    Height = 25
+    Top = 288
+    Width = 75
+    Caption = 'Location 4'
+    TabOrder = 4
+  end
+  object Button5: TButton
+    Left = 520
+    Height = 25
+    Top = 680
+    Width = 75
+    Caption = 'Location 5'
+    TabOrder = 5
+  end
+  object Button6: TButton
+    Left = 864
+    Height = 25
+    Top = 240
+    Width = 75
+    Caption = 'Location 8'
+    TabOrder = 6
+  end
+  object Button7: TButton
+    Left = 864
+    Height = 25
+    Top = 800
+    Width = 75
+    Caption = 'Location 9'
+    TabOrder = 7
+  end
+  object Button8: TButton
+    Left = 1000
+    Height = 25
+    Top = 800
+    Width = 75
+    Caption = 'Location 10'
+    TabOrder = 8
+  end
+  object Button9: TButton
+    Left = 736
+    Height = 25
+    Top = 240
+    Width = 75
+    Caption = 'Location 7'
+    TabOrder = 9
+  end
+  object Button10: TButton
+    Left = 736
+    Height = 25
+    Top = 680
+    Width = 75
+    Caption = 'Location 6'
+    TabOrder = 10
+  end
+  object Shape60: TShape
+    Left = 712
+    Height = 25
+    Top = 168
+    Width = 26
+    Shape = stTriangleRight
+    Visible = False
+  end
+  object Shape61: TShape
+    Left = 760
+    Height = 25
+    Top = 168
+    Width = 26
+    Shape = stTriangleRight
+    Visible = False
+  end
+  object Shape62: TShape
+    Left = 808
+    Height = 25
+    Top = 168
+    Width = 26
+    Shape = stTriangleRight
+    Visible = False
+  end
+  object Shape63: TShape
+    Left = 856
+    Height = 25
+    Top = 168
+    Width = 26
+    Shape = stTriangleRight
+    Visible = False
+  end
+  object Shape64: TShape
+    Left = 896
+    Height = 25
+    Top = 168
+    Width = 26
+    Shape = stTriangleRight
+    Visible = False
+  end
+  object Shape65: TShape
+    Left = 936
+    Height = 25
+    Top = 168
+    Width = 26
+    Shape = stTriangleRight
+    Visible = False
+  end
+  object Shape49: TShape
+    Left = 1008
+    Height = 25
+    Top = 248
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape46: TShape
+    Left = 888
+    Height = 25
+    Top = 288
+    Width = 26
+    Shape = stTriangleLeft
+    Visible = False
+  end
+  object Shape47: TShape
+    Left = 840
+    Height = 25
+    Top = 288
+    Width = 26
+    Shape = stTriangleLeft
+    Visible = False
+  end
+  object Shape50: TShape
+    Left = 792
+    Height = 25
+    Top = 288
+    Width = 26
+    Shape = stTriangleLeft
+    Visible = False
+  end
+  object Shape51: TShape
+    Left = 744
+    Height = 25
+    Top = 288
+    Width = 26
+    Shape = stTriangleLeft
+    Visible = False
+  end
+  object Shape52: TShape
+    Left = 696
+    Height = 25
+    Top = 288
+    Width = 26
+    Shape = stTriangleLeft
+    Visible = False
+  end
+  object Shape53: TShape
+    Left = 648
+    Height = 25
+    Top = 288
+    Width = 26
+    Shape = stTriangleLeft
+    Visible = False
+  end
+  object Shape54: TShape
+    Left = 608
+    Height = 25
+    Top = 288
+    Width = 26
+    Shape = stTriangleLeft
+    Visible = False
+  end
+  object Shape55: TShape
+    Left = 544
+    Height = 25
+    Top = 320
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape56: TShape
+    Left = 544
+    Height = 25
+    Top = 368
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape57: TShape
+    Left = 544
+    Height = 25
+    Top = 416
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape58: TShape
+    Left = 544
+    Height = 25
+    Top = 464
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape59: TShape
+    Left = 544
+    Height = 25
+    Top = 512
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape66: TShape
+    Left = 544
+    Height = 25
+    Top = 560
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape77: TShape
+    Left = 544
+    Height = 25
+    Top = 608
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape78: TShape
+    Left = 544
+    Height = 25
+    Top = 648
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape79: TShape
+    Left = 608
+    Height = 25
+    Top = 680
+    Width = 26
+    Shape = stTriangleRight
+    Visible = False
+  end
+  object Shape80: TShape
+    Left = 648
+    Height = 25
+    Top = 680
+    Width = 26
+    Shape = stTriangleRight
+    Visible = False
+  end
+  object Shape81: TShape
+    Left = 688
+    Height = 25
+    Top = 680
+    Width = 26
+    Shape = stTriangleRight
+    Visible = False
+  end
+  object Shape42: TShape
+    Left = 760
+    Height = 25
+    Top = 608
+    Width = 26
+    Shape = stTriangle
+    Visible = False
+  end
+  object Shape43: TShape
+    Left = 760
+    Height = 25
+    Top = 568
+    Width = 26
+    Shape = stTriangle
+    Visible = False
+  end
+  object Shape44: TShape
+    Left = 760
+    Height = 25
+    Top = 528
+    Width = 26
+    Shape = stTriangle
+    Visible = False
+  end
+  object Shape82: TShape
+    Left = 760
+    Height = 25
+    Top = 488
+    Width = 26
+    Shape = stTriangle
+    Visible = False
+  end
+  object Shape83: TShape
+    Left = 760
+    Height = 25
+    Top = 448
+    Width = 26
+    Shape = stTriangle
+    Visible = False
+  end
+  object Shape84: TShape
+    Left = 760
+    Height = 25
+    Top = 408
+    Width = 26
+    Shape = stTriangle
+    Visible = False
+  end
+  object Shape85: TShape
+    Left = 760
+    Height = 25
+    Top = 368
+    Width = 26
+    Shape = stTriangle
+    Visible = False
+  end
+  object Shape86: TShape
+    Left = 760
+    Height = 25
+    Top = 328
+    Width = 26
+    Shape = stTriangle
+    Visible = False
+  end
+  object Shape87: TShape
+    Left = 760
+    Height = 25
+    Top = 280
+    Width = 26
+    Shape = stTriangle
+    Visible = False
+  end
+  object Shape88: TShape
+    Left = 828
+    Height = 25
+    Top = 240
+    Width = 26
+    Shape = stTriangleRight
+    Visible = False
+  end
+  object Shape89: TShape
+    Left = 888
+    Height = 25
+    Top = 272
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape90: TShape
+    Left = 888
+    Height = 25
+    Top = 320
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape91: TShape
+    Left = 888
+    Height = 25
+    Top = 360
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape92: TShape
+    Left = 888
+    Height = 25
+    Top = 400
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape93: TShape
+    Left = 888
+    Height = 25
+    Top = 440
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape94: TShape
+    Left = 888
+    Height = 25
+    Top = 480
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape95: TShape
+    Left = 888
+    Height = 25
+    Top = 520
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape96: TShape
+    Left = 888
+    Height = 25
+    Top = 560
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape97: TShape
+    Left = 888
+    Height = 25
+    Top = 600
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape98: TShape
+    Left = 888
+    Height = 25
+    Top = 640
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape99: TShape
+    Left = 888
+    Height = 25
+    Top = 688
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape100: TShape
+    Left = 888
+    Height = 25
+    Top = 728
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape101: TShape
+    Left = 888
+    Height = 25
+    Top = 768
+    Width = 26
+    Shape = stTriangleDown
+    Visible = False
+  end
+  object Shape102: TShape
+    Left = 960
+    Height = 25
+    Top = 800
+    Width = 26
+    Shape = stTriangleRight
+    Visible = False
+  end
+end
